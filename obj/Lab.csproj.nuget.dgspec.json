@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\My-Workshop\\c#\\Lab\\Lab.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\My-Workshop\\c#\\Lab\\Lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\My-Workshop\\c#\\Lab\\Lab.csproj",
+        "projectName": "Lab",
+        "projectPath": "C:\\Projects\\My-Workshop\\c#\\Lab\\Lab.csproj",
+        "packagesPath": "C:\\Users\\h299683\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\My-Workshop\\c#\\Lab\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h299683\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.honeywell.com/artifactory/api/nuget/Honeywell-Code-NuGet": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/Connected_Services_OBS-8431-stable-nuget-local/": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/Honeywell.CBP.IOT.API-8588-stable-nuget-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/Honeywell.CBP.IOT.API-8588-unstable-nuget-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/allegrettoclouddatastore-6990-stable-nuget-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/allegrettocommon-6990-stable-nuget-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/honeywell-eom-deploy-nuget-stable-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/sentienceiotcore-7205--stable-nuget-local": {},
+          "https://artifactory-na.honeywell.com/artifactory/api/nuget/sentienceiotcore-7205--unstable-nuget-local": {},
+          "https://artifactory.honeywell.com/artifactory/api/nuget/ConnectedBuildingsPlatform-Code": {},
+          "https://artifactory.honeywell.com/artifactory/api/nuget/ConnectedBuildingsPlatform-Code-Unstable": {},
+          "https://artifactory.honeywell.com/artifactory/api/nuget/HBT-NGS-NUGET-CODE": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
